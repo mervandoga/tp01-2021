@@ -1,0 +1,18 @@
+1- Completer fiche01 
+2- publier dans son depot
+3- creer un branche nommée test
+4- creer un fichier fiche02.txt
+5- ajouter du texte au fichier fiche02.txt
+6- valider la creation de ce fichier sur la branche test
+7- Modifier le fichier fiche03.txt en ajoutant votre nom prenom
+8- valider les modifications
+9- créer un fichier resultats_test.txt et afficher dedans le contenu de la commande git status
+10- ajouter au fichier resultats_test.txt l'historique des commit (git log)
+12- valider les modifications
+11- revenir sur la branche master
+12- créer un fichier resultats_master.txt et afficher dedns le contenu de la commande git log
+13- valider la création du fichier
+14- ajouter le resultat de git status dans le fichier resultats_master.txt
+15- valider les modifications
+16- fusionner la branche test sur master
+17- publier sur son propre espace github le projet tp01-2021
