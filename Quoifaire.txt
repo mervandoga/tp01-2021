@@ -15,4 +15,11 @@
 14- ajouter le resultat de git status dans le fichier resultats_master.txt
 15- valider les modifications
 16- fusionner la branche test sur master
-17- publier sur son propre espace github le projet tp01-2021
+17- créer le projet sur son espace github personnel
+18- publier sur son propre espace github le projet tp01-2021
+
+ Pour publier sur votre espace github : 
+
+ - suprimer la liaison :  git remote delete origin
+
+ - activer la liaison sur son propre espace : git remote add origin http://github.com/monespace/tp01-2021
